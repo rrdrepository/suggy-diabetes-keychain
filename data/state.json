@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-22T03:58:54",
+  "keychain_ref": "KC-4821",
+  "link": {
+    "linked": false,
+    "linked_at": null,
+    "nickname": null
+  },
+  "pet": {
+    "mood": "happy",
+    "awake": true,
+    "hearts": 5,
+    "accessories": [],
+    "owned": [],
+    "last_meal": null,
+    "everyday_foods_eaten": 0,
+    "sometimes_foods_eaten": 0
+  },
+  "insulin": {
+    "gap_minutes": 15,
+    "reminders": [
+      {
+        "id": "breakfast",
+        "label": "Breakfast",
+        "time": "07:00",
+        "on": false,
+        "with_meal": true
+      },
+      {
+        "id": "lunch",
+        "label": "Lunch",
+        "time": "12:30",
+        "on": false,
+        "with_meal": true
+      },
+      {
+        "id": "dinner",
+        "label": "Dinner",
+        "time": "19:00",
+        "on": false,
+        "with_meal": true
+      },
+      {
+        "id": "bedtime",
+        "label": "Bedtime",
+        "time": "21:30",
+        "on": false,
+        "with_meal": false
+      }
+    ],
+    "log": []
+  },
+  "points": {
+    "balance": 0,
+    "earned_total": 0
+  },
+  "feed_log": [],
+  "vouchers": [],
+  "quiz": {
+    "date": null,
+    "answers": []
+  },
+  "kid_quiz": {
+    "points_date": null
+  },
+  "glucose_logs": [],
+  "risk_result": null
+}
